@@ -33,7 +33,7 @@ const StyledHead = styled.div`
   box-shadow: 0px 3px 5px 0px rgb(49 49 53 / 10%);
 
   @media (min-width: 600px) {
-    margin: 0 auto;
+    margin: 0 auto 15px;
     width: 100%;
   }
   h2 {
