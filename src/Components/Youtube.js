@@ -27,7 +27,7 @@ function Youtube(props) {
 const StyledDiv = styled.div`
   padding: 10px 16px;
 
-  @media (min-width: 600px) {
+  @media (min-width: 950px) {
     margin: 0 auto;
     width: 33%;
   }
@@ -88,6 +88,7 @@ const StyledDiv = styled.div`
   }
 
   a {
+    max-height: 101;
     color: white;
     font-weight: 550;
     text-decoration: none;

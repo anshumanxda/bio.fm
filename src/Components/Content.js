@@ -1,8 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 function Content(props) {
-  const linkSvg = ``;
-
   const userSvg =
     "https://img.icons8.com/windows/32/4d4d4d/user-male-circle.png";
   return (
@@ -41,7 +39,7 @@ function Content(props) {
 const StyledDiv = styled.div`
   padding: 0 16px;
 
-  @media (min-width: 600px) {
+  @media (min-width: 950px) {
     margin: 0 auto;
     width: 33%;
   }

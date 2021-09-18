@@ -1,6 +1,3 @@
-//styling
-import styled from "styled-components";
-
 //components
 import Header from "./Components/Header";
 import Content from "./Components/Content";
